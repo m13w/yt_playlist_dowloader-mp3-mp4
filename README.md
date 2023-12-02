@@ -18,5 +18,3 @@ Download all videos from YouTube playlist.
   <p>Step 2: $ python3 yt_playlist_downloader.py yt_playlist_link</p>
   <h1>Proof</h1>
   <img src="https://i.ibb.co/ydZtXTh/Screenshot-2022-03-16-00-18-03.png"/>
-  <h1>Author</h1>
-<ul>
