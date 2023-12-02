@@ -20,6 +20,3 @@ Download all videos from YouTube playlist.
   <img src="https://i.ibb.co/ydZtXTh/Screenshot-2022-03-16-00-18-03.png"/>
   <h1>Author</h1>
 <ul>
-  <li><a href="https://twitter.com/l1v1n9h311">Kunal Kumar</a></li>
-  </ul>
-  
